@@ -2,7 +2,7 @@ def cal_money():
     # input the name and the money
     # num = int(input("please input the number: "))
     num = int(input("请输入聚餐人数: "))
-    print("请输入名字和钱数\n 如: 张三 20\n")
+    print("请输入名字和钱数\n如: 张三 20\n")
 
     p_m = {}
     s = 0
